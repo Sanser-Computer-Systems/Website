@@ -1,11 +1,22 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
-    "image": "img/slide/slide01.jpg"
+    "title": "Software Development",
+    "image": "img/slide/software-development.png",
+    "color": "text-white"
   },
   {
-    "title": "Sample text here...",
-    "image": "img/slide/slide02.jpg",
-    "color": "text-black"
+    "title": "IT repairs",
+    "image": "img/slide/it-repair.png",
+    "color": "text-white"
+  },
+  {
+    "title": "Managed IT Services",
+    "image": "img/slide/MSP.png",
+    "color": "text-white"
+  },
+  {
+    "title": "IT Support",
+    "image": "img/slide/it-support-and-monitoring.png",
+    "color": "text-white"
   }
 ]

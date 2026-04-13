@@ -1,18 +1,32 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
+    "title": "Locally Owned & Operated",
+    "description": "Tech solutions built locally, supported personally.",
+    "icon": "bi bi-geo-alt"
+  },
+  {
+    "title": "Over 15 years industry experience",
+    "description": "Experience that keeps your home or business running smoothly.",
     "icon": "bi bi-box"
   },
   {
-    "title": "Fast",
-    "description": "Light weight and fast loading speed.",
+    "title": "Fast Turnaround",
+    "description": "Quick diagnostics, rapid repairs, zero downtime stress.",
     "icon": "bi bi-lightning-charge"
   },
   {
-    "title": "Github",
-    "description": "Please fork the Github repository and contribute to this theme!",
-    "link": "https://github.com/opera7133/tella",
-    "icon": "bi bi-github"
+    "title": "Comprehensive Tech Support",
+    "description": "From troubleshooting to full system care — we’ve got you covered.",
+    "icon": "bi bi-headset"
+  },
+  {
+    "title": "Custom Software Development",
+    "description": "Tailored software solutions to meet your specific needs.",
+    "icon": "bi bi-code-slash"
+  },
+  {
+    "title": "Business-Ready Solutions",
+    "description": "Scalable and secure technology solutions designed for your business.",
+    "icon": "bi bi-building"
   }
 ]
