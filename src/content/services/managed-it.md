@@ -1,6 +1,7 @@
 ---
 title: "Managed IT Support"
 description: "Reliable managed IT support for small businesses and home users across the Sunshine Coast."
+image: img/slide/MSP.png
 date: 2026-05-07
 weight: 3
 draft: true
