@@ -10,8 +10,6 @@ menu:
   services:
 ---
 
-# On-Site IT Support
-
 Professional onsite technical support when you need hands-on assistance.
 
 ## What We Offer

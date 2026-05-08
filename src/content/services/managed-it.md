@@ -10,8 +10,6 @@ menu:
   services:
 ---
 
-# Managed IT Support
-
 Reliable, proactive IT support that keeps your systems running smoothly and your business productive.
 
 ## What Is Managed IT Support?

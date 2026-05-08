@@ -9,8 +9,6 @@ menu:
   services:
 ---
 
-# IT Consulting & Advice
-
 Practical technology advice to help you make informed decisions.
 
 ## Consulting Services

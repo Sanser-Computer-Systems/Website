@@ -9,8 +9,6 @@ menu:
   services:
 ---
 
-# Cybersecurity Protection
-
 Protect your systems, data, and business from modern cyber threats.
 
 ## Security Services

@@ -9,8 +9,6 @@ menu:
   services:
 ---
 
-# Cloud Setup & Support
-
 Modern cloud solutions that help your business work securely from anywhere.
 
 ## Cloud Services

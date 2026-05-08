@@ -10,8 +10,6 @@ menu:
   services:
 ---
 
-# Custom Software Development
-
 Custom-built software solutions designed specifically for your business.
 
 ## Tailored Software Solutions

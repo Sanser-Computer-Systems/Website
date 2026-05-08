@@ -9,8 +9,6 @@ menu:
   services:
 ---
 
-# Data Backup & Recovery
-
 Protect your valuable data before disaster strikes.
 
 ## Backup & Recovery Solutions

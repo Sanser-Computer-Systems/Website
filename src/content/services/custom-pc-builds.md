@@ -9,8 +9,6 @@ menu:
   services:
 ---
 
-# Custom PC Builds
-
 Custom-built computers designed specifically for your performance requirements, workflow, and budget.
 
 ## Custom Computer Solutions

@@ -9,8 +9,6 @@ menu:
   services:
 ---
 
-# Network Setup & Optimisation
-
 Reliable networking solutions that keep your devices connected and performing efficiently.
 
 ## Networking Services

@@ -9,8 +9,6 @@ menu:
   services:
 ---
 
-# Friendly Computer Help for Seniors
-
 Simple, patient technology support without the confusing jargon.
 
 Sanser Computer Systems provides friendly local assistance for seniors needing help with computers, internet, printers, phones, tablets, Wi-Fi, and general technology problems.
@@ -116,31 +114,31 @@ No pressure. No rushing. No confusing technical language.
 
 ---
 
-# Why Seniors Choose Sanser Computer Systems
+## Why Seniors Choose Sanser Computer Systems
 
-## Patient & Friendly Service
+### Patient & Friendly Service
 
 We take the time to explain things clearly and simply.
 
-## No Confusing Tech Jargon
+### No Confusing Tech Jargon
 
 We speak in plain English and focus on practical solutions.
 
-## Local & Reliable
+### Local & Reliable
 
 Friendly local support you can trust.
 
-## Home Visits Available
+### Home Visits Available
 
 We can come to you if transporting equipment is difficult.
 
-## Honest Advice
+### Honest Advice
 
 We recommend only what you actually need.
 
 ---
 
-# Common Problems We Solve
+## Common Problems We Solve
 
 - “My computer is running very slowly”
 - “My printer won’t connect”
@@ -154,49 +152,47 @@ We recommend only what you actually need.
 
 ---
 
-# Seniors Discount
+## Seniors Discount
 
-We proudly offer a:
-
-## 15% Seniors Discount
+We proudly offer a **15% Seniors Discount**
 
 Available on eligible services.
 
 ---
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
-## Do you provide home visits?
+### Do you provide home visits?
 
 Yes. Home visits are available across the Sunshine Coast.
 
-## Can you help with internet providers?
+### Can you help with internet providers?
 
 Absolutely. We can help set up internet services and speak with your provider if required.
 
-## Do you repair Apple and Windows computers?
+### Do you repair Apple and Windows computers?
 
 Yes. We support both Windows and Apple devices.
 
-## Can you help with phones and tablets?
+### Can you help with phones and tablets?
 
 Yes. We provide assistance with iPhones, Android phones, iPads, and tablets.
 
-## Do I need to bring my computer anywhere?
+### Do I need to bring my computer anywhere?
 
 Not necessarily. In many cases we can come to your home.
 
-## Will you explain things simply?
+### Will you explain things simply?
 
 Always. We believe technology support should be clear, friendly, and easy to understand.
 
 ---
 
-# Need Friendly Computer Help?
+## Need Friendly Computer Help?
 
 Whether you have a simple question or a frustrating technical problem, we are here to help.
 
-## Sanser Computer Systems
+### Sanser Computer Systems
 
 - Friendly local support
 - Patient assistance
