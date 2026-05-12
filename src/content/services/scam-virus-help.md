@@ -206,9 +206,15 @@ Yes. Home visits are available across the Sunshine Coast.
 
 ---
 
-## Need Help Right Now?
+## Need Help Right Now? Urgent Scam Or Virus Issue?
 
-If something suspicious has appeared on your computer, or you think you may have been scammed, contact us today.
+If something suspicious has appeared on your computer, or you think you may have been scammed.
+
+Contact us as soon as possible to reduce the risk of further damage or data loss.
+
+## You’re Not Alone
+
+Online scams are increasingly sophisticated and affect people of all ages every day.
 
 ### Sanser Computer Systems
 
