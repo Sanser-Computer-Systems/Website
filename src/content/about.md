@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: "Learn more about Sanser Computer Systems and the local technology support services we provide."
-author: "Mark Sanders"
 ---
 
 Reliable local IT support with a focus on honest advice, practical solutions, and friendly service.
