@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: "Learn more about Sanser Computer Systems and the local technology support services we provide."
-date: "2026-04-08"
 author: "Mark Sanders"
 ---
 

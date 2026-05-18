@@ -1,7 +1,6 @@
 ---
 title: "Network Setup & Optimisation"
 description: "Reliable networking and Wi-Fi solutions for businesses and homes."
-date: 2026-05-07
 weight: 1
 draft: true
 featured: true

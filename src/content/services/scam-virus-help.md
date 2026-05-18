@@ -3,7 +3,6 @@ title: "Scam & Virus Removal Help"
 description: "Fast, friendly help for computer viruses, pop-up scams, malware infections, and online security problems across the Sunshine Coast."
 draft: true
 featured: true
-date: 2026-05-07
 weight: 6
 menu:
   services:

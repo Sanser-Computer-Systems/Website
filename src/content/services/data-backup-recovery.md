@@ -1,7 +1,6 @@
 ---
 title: "Data Backup & Recovery"
 description: "Protect your important business and personal data from loss."
-date: 2026-05-07
 weight: 8
 draft: true
 featured: true

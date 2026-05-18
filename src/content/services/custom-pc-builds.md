@@ -1,7 +1,6 @@
 ---
 title: "Custom PC Builds"
 description: "High-performance custom computers tailored to your needs and budget."
-date: 2026-05-07
 weight: 9
 draft: true
 featured: true

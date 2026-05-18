@@ -1,7 +1,6 @@
 ---
 title: "On-Site IT Support"
 description: "Professional onsite IT support for businesses and home users."
-date: 2026-05-07
 image: img/slide/it-support-and-monitoring.png
 weight: 2
 draft: true

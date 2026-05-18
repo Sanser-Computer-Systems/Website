@@ -1,7 +1,6 @@
 ---
 title: "Cybersecurity Protection"
 description: "Protect your systems and business from cyber threats and malware."
-date: 2026-05-07
 weight: 7
 draft: true
 featured: true

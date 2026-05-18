@@ -1,7 +1,6 @@
 ---
 title: "Computer Help for Seniors"
 description: "Friendly, patient computer and technology help for seniors across the Sunshine Coast."
-date: 2026-05-07
 draft: true
 featured: true
 weight: 3

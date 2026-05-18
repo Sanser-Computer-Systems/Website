@@ -1,7 +1,6 @@
 ---
 title: 'Contact'
 description: "Contact Sanser Computer Systems for friendly local IT support and technology assistance."
-date: 2026-05-07
 hasForm: true
 ---
 

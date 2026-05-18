@@ -1,7 +1,6 @@
 ---
 title: "Cloud Setup & Support"
 description: "Cloud solutions and Microsoft 365 support for modern businesses."
-date: 2026-05-07
 weight: 5
 draft: true
 featured: true

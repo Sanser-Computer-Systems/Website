@@ -1,7 +1,6 @@
 ---
 title: "IT Consulting & Advice"
 description: "Professional IT consulting and practical technology advice."
-date: 2026-05-07
 weight: 4
 draft: true
 featured: true
