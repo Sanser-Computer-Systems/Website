@@ -15,7 +15,7 @@ Whether you need help with a slow computer, cybersecurity protection, business I
 
 ---
 
-# Local, Personalised Support
+## Local, Personalised Support
 
 Unlike large support providers or overseas call centres, Sanser Computer Systems focuses on personalised local service and building long-term relationships with customers.
 
@@ -23,7 +23,7 @@ We understand that every customer has different needs, technical knowledge, and 
 
 ---
 
-# About Mark Sanders
+## About Mark Sanders
 
 Sanser Computer Systems was founded by Mark Sanders, a technology professional with a background in software development, IT systems, and problem solving.
 
@@ -37,7 +37,7 @@ That philosophy became the foundation of Sanser Computer Systems.
 
 ---
 
-# What We Do
+## What We Do
 
 We provide a wide range of technology services including:
 
@@ -54,27 +54,27 @@ We provide a wide range of technology services including:
 
 ---
 
-# Our Approach
+## Our Approach
 
-## Clear Communication
+### Clear Communication
 
 We explain technical problems in plain English so you always understand what is happening.
 
-## Honest Advice
+### Honest Advice
 
 We recommend solutions based on what you actually need — not unnecessary upsells.
 
-## Reliable Support
+### Reliable Support
 
 We focus on responsive service, dependable solutions, and long-term customer relationships.
 
-## Friendly Service
+### Friendly Service
 
 Technology can already be frustrating enough. We aim to make support calm, approachable, and stress-free.
 
 ---
 
-# Supporting The Local Community
+## Supporting The Local Community
 
 As a local business, we value supporting the Sunshine Coast community and helping local residents and businesses feel more confident using technology safely and effectively.
 
@@ -82,7 +82,7 @@ We are particularly passionate about helping seniors navigate modern technology 
 
 ---
 
-# Why Choose Sanser Computer Systems?
+## Why Choose Sanser Computer Systems?
 
 - Local Sunshine Coast support
 - Friendly and approachable service
@@ -95,10 +95,10 @@ We are particularly passionate about helping seniors navigate modern technology 
 
 ---
 
-# Need Help?
+## Need Help?
 
 Whether you need business IT support, help with a home computer issue, or advice on improving your technology setup, we are here to help.
 
-## Sanser Computer Systems
+### Sanser Computer Systems
 
 Friendly local technology support you can trust.

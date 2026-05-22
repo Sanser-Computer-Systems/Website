@@ -12,7 +12,7 @@ Whether you are a small business, home user, or senior needing assistance, we ai
 
 ---
 
-# Get In Touch
+## Get In Touch
 
 Use the contact form below to send an enquiry and we will get back to you as soon as possible.
 
@@ -31,7 +31,7 @@ You can contact us regarding:
 
 ---
 
-# Friendly Local Support
+## Friendly Local Support
 
 Sanser Computer Systems proudly provides local technology support across the Sunshine Coast.
 
@@ -45,13 +45,13 @@ We focus on:
 
 ---
 
-# Home Visits Available
+## Home Visits Available
 
 For customers who are unable to transport equipment or prefer in-person assistance, home and onsite visits may be available depending on location and availability.
 
 ---
 
-# Seniors Welcome
+## Seniors Welcome
 
 We provide patient, jargon-free assistance for seniors and less confident technology users.
 
@@ -59,7 +59,7 @@ A 15% seniors discount is available on eligible services.
 
 ---
 
-# Before You Submit Your Enquiry
+## Before You Submit Your Enquiry
 
 Providing a few details about the issue you are experiencing can help us respond more efficiently.
 
@@ -73,13 +73,13 @@ Useful information may include:
 
 ---
 
-# Scam Or Virus Concern?
+## Scam Or Virus Concern?
 
 If you believe your computer may have been infected, displayed suspicious warnings, or someone requested remote access to your device, please mention this in your message so we can prioritise the enquiry appropriately.
 
 ---
 
-# Thank You
+## Thank You
 
 Thank you for contacting Sanser Computer Systems.
 
