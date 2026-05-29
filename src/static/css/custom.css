@@ -26,6 +26,16 @@ html{
     font-size: 100%
 }
 
+body{
+    background-color: var(--background-colour);
+}
+
+header a{
+    color: var(--text-colour);
+    font-weight: bold;
+    font-size: 1.4rem;
+}  
+
 h1 {
     font: var(--title-font);
 }
