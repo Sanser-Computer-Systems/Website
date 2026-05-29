@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Sanser Computer Systems"
 description: "Learn more about Sanser Computer Systems and the local technology support services we provide."
 ---
 

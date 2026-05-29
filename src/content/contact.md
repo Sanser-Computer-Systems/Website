@@ -1,5 +1,5 @@
 ---
-title: 'Contact'
+title: 'Contact Us'
 description: "Contact Sanser Computer Systems for friendly local IT support and technology assistance."
 hasForm: true
 ---
