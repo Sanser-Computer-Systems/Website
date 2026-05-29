@@ -8,7 +8,7 @@
     --text-colour: #383838;
     --primary-colour: #336523;
     --background-colour: #dbe5d8;
-    /* --background-colour-2: #cfdccb; */
+    --background-colour-2: #cfdccb;
     --shade-colour: #c9cbc8;
     /* --shade-2: #818282; */
 
@@ -26,6 +26,10 @@ html{
     font-size: 100%
 }
 
+body {
+    background-color: var(--background-colour);
+}
+
 header a{
     color: var(--text-colour);
     font-weight: bold;
@@ -39,6 +43,10 @@ h3,
 h4,
 .section div {
     color: var(--primary-colour);
+}
+
+.section div {
+    background-color: var(--background-colour-2);
 }
 
 /* Set the style of the text in the homepage slideshow */
