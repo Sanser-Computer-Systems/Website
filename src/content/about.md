@@ -23,20 +23,6 @@ We understand that every customer has different needs, technical knowledge, and 
 
 ---
 
-## About Mark Sanders
-
-Sanser Computer Systems was founded by Mark Sanders, a technology professional with a background in software development, IT systems, and problem solving.
-
-With experience spanning both technical development and business technology, Mark combines strong technical knowledge with a practical, customer-focused approach.
-
-After years working with technology, one thing became increasingly clear:
-
-Many people simply want honest, reliable help from someone who will explain things properly and genuinely solve the problem.
-
-That philosophy became the foundation of Sanser Computer Systems.
-
----
-
 ## What We Do
 
 We provide a wide range of technology services including:
