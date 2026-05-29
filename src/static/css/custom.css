@@ -6,7 +6,7 @@
 :root {
     /* Colours: */
     --text-colour: #383838;
-    --primary-colour: #87a67d;
+    --primary-colour: #336523;
     --background-colour: #dbe5d8;
     /* --background-colour-2: #cfdccb; */
     --shade-colour: #c9cbc8;
@@ -14,11 +14,11 @@
 
     /* Fonts: */
     --base-font: Montserrat;
-    --title-font: 2.5rem var(--base-font);
-    --subtitle-font: 2rem var(--base-font);
-    --heading-font: 1.5rem var(--base-font);
-    --subheading-font: 1.25rem var(--base-font);
-    --body-font: 1rem var(--base-font);
+    --title-font: 2.2rem var(--base-font);
+    --subtitle-font: 1.7rem var(--base-font);
+    --heading-font: 1.3rem var(--base-font);
+    --subheading-font: 1.05rem var(--base-font);
+    --body-font: 0.85rem var(--base-font);
     --list-font: italic 0.8rem var(--base-font);
 }
 
