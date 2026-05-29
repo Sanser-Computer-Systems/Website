@@ -2,7 +2,6 @@
 title: "Network Setup & Optimisation"
 description: "Reliable networking and Wi-Fi solutions for businesses and homes."
 weight: 1
-draft: true
 featured: true
 menu:
   services:

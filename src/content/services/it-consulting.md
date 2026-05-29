@@ -2,7 +2,6 @@
 title: "IT Consulting & Advice"
 description: "Professional IT consulting and practical technology advice."
 weight: 4
-draft: true
 featured: true
 menu:
   services:

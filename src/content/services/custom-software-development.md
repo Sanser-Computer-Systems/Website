@@ -3,7 +3,6 @@ title: "Custom Software Development"
 description: "Tailored software solutions designed around your business needs."
 image: img/slide/software-development.png
 weight: 6
-draft: true
 featured: true
 menu:
   services:

@@ -2,7 +2,6 @@
 title: "Cloud Setup & Support"
 description: "Cloud solutions and Microsoft 365 support for modern businesses."
 weight: 5
-draft: true
 featured: true
 menu:
   services:
