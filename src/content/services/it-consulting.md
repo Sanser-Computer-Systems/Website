@@ -1,8 +1,9 @@
 ---
 title: "IT Consulting & Advice"
 description: "Professional IT consulting and practical technology advice."
-weight: 4
+image: img/services/it-consulting-and-advice.png
 featured: true
+weight: 4
 menu:
   services:
 ---

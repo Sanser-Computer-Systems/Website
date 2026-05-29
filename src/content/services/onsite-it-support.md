@@ -1,9 +1,9 @@
 ---
 title: "On-Site IT Support"
 description: "Professional onsite IT support for businesses and home users."
-image: img/slide/it-support-and-monitoring.png
-weight: 2
+image: img/services/onsite-it-support.png
 featured: true
+weight: 2
 menu:
   services:
 ---

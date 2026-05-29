@@ -1,8 +1,9 @@
 ---
 title: "Custom PC Builds"
 description: "High-performance custom computers tailored to your needs and budget."
-weight: 9
+image: img/services/custom-pc-builds.png
 featured: true
+weight: 9
 menu:
   services:
 ---

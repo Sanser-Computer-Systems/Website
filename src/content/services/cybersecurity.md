@@ -1,8 +1,9 @@
 ---
 title: "Cybersecurity Protection"
 description: "Protect your systems and business from cyber threats and malware."
-weight: 7
+image: img/services/cybersecurity-protection.png
 featured: true
+weight: 7
 menu:
   services:
 ---
