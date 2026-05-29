@@ -1,3 +1,126 @@
 baseURL = 'https://sansercomputersystems.com.au/'
-locale = 'en-au'
 title = 'Sanser Computer Systems'
+author = "Mark Sanders"
+locale = 'en-au'
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+theme = "tella"
+enableRobotsTXT = true
+
+[services]
+  [services.googleAnalytics]
+  # If you're using Google Analytics, you can enable this feature.
+  #id = "G-1234567890"
+
+  [services.disqus]
+  # Disqus Comment System
+  #shortname = "your-disqus-shortname"
+
+[params]
+  forminitFormId = "brjrrq39low"
+  showBlog = false
+  mainSections = ['services', 'about', 'contact']
+  googleFonts = true
+
+  [params.logo]
+    main = "img/logo.png"
+    alt = "Sanser Computer Systems Logo"
+    size = "h-42" # The size parameter is the class name of tailwindcss
+
+  [params.site]
+    name = "Sanser Computer Systems"
+
+  [params.icon]
+    # If you want to use FontAwesome, set this parameter to true.
+    #fontawesome = true
+
+    # You can also use Bootstrap Icons.
+    bootstrap = true
+
+  [params.homepage_meta_tags]
+    meta_description = "The official homepage of Sanser Computer Systems"
+    meta_og_title = "Sanser Computer Systems"
+    meta_og_type = "website"
+    meta_og_url = "https://sansercomputersystems.com.au"
+    meta_og_image = "img/logo.png"
+    meta_og_description = "The official homepage of Sanser Computer Systems"
+
+  [params.giscus]
+    # Giscus Comment System
+    # See https://giscus.app for setup instructions
+    #repo = "your-repo"
+    #repo_id = "your-repo-id"
+    #category = "Announcements"
+    #category_id = "your-category-id"
+    #mapping = "pathname"
+    #strict = "0"
+    #reactions_enabled = "1"
+    #emit_metadata = "0"
+    #input_position = "bottom"
+    #theme = "preferred_color_scheme"
+    #lang = "en"
+    #loading = "lazy"
+
+[menu]
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+  [privacy.vimeo]
+    disabled = true
+    simple = false
+
+  [privacy.x]
+    disabled = true
+    enableDNT = true
+    simple = false
+
+  [privacy.instagram]
+    disabled = true
+    simple = false
+
+  [privacy.youtube]
+    disabled = true
+    privacyEnhanced = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[build]
+  [build.buildStats]
+    enable = true
+  [[build.cachebusters]]
+    source = 'assets/notwatching/hugo_stats\.json'
+    target = 'css'
+
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    disableWatch = true
+    source = 'hugo_stats.json'
+    target = 'assets/notwatching/hugo_stats.json'

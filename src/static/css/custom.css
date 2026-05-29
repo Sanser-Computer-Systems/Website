@@ -1,0 +1,84 @@
+/* 
+ This CSS file is used to override the existing styles of the theme.
+ You can change the article headings, fonts, colors, etc.
+*/
+
+:root {
+    /* Colours: */
+    --text-colour: #383838;
+    --primary-colour: #336523;
+    --background-colour: #dbe5d8;
+    --background-colour-2: #cfdccb;
+    --shade-colour: #c9cbc8;
+    /* --shade-2: #818282; */
+
+    /* Fonts: */
+    --base-font: Montserrat;
+    --title-font: 2.2rem var(--base-font);
+    --subtitle-font: 1.7rem var(--base-font);
+    --heading-font: 1.3rem var(--base-font);
+    --subheading-font: 1.05rem var(--base-font);
+    --body-font: 0.85rem var(--base-font);
+    --list-font: italic 0.8rem var(--base-font);
+}
+
+html{
+    font-size: 100%
+}
+
+body {
+    background-color: var(--background-colour);
+}
+
+header a{
+    color: var(--text-colour);
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+/* Set the Heading font colours for the services 'tiles'*/
+h1,
+h2,
+h3,
+h4,
+.section div {
+    color: var(--primary-colour);
+}
+
+article,
+.section div {
+    background-color: var(--background-colour-2);
+}
+
+/* Set the style of the text in the homepage slideshow */
+.splide h1 {
+    color: var(--shade-colour);
+    font-size: 4.5rem;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1 {
+    font: var(--title-font);
+}
+
+h2 {
+    font: var(--subtitle-font);
+}
+
+h3 {
+    font: var(--heading-font);
+}
+
+h4 {
+    font: var(--subheading-font);
+}
+
+p {
+    font: var(--body-font);
+    color: var(--text-colour);
+}
+
+li {
+    font: var(--list-font);
+}
