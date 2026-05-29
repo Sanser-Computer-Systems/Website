@@ -45,6 +45,7 @@ h4,
     color: var(--primary-colour);
 }
 
+article,
 .section div {
     background-color: var(--background-colour-2);
 }
