@@ -81,18 +81,6 @@ enableRobotsTXT = true
     url = "/contact/"
     weight = 3
 
-  # Footer Menu
-  [[menu.footer]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/Sanser-Computer-Systems"
-    #pre = "<i class='bi bi-github text-2xl'></i>"
-    weight = 2
-
 [taxonomies]
 category = "categories"
 tag = "tags"
