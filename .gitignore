@@ -26,7 +26,6 @@ public/
 .hugo_build.lock
 .hugo_build_cache/
 hugo_stats.json
-package-lock.json
 
 # Go workspace file
 go.work
