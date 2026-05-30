@@ -52,7 +52,7 @@ jobs:
           node-version: 24
       - name: Install Node.js dependencies
         working-directory: src
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci"
+        run: pwd
       - name: Build with Hugo
         working-directory: src
         env:
