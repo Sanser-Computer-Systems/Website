@@ -52,7 +52,7 @@ jobs:
           node-version: 24
       - name: Install Node.js dependencies
         working-directory: src
-        run: pwd
+        run: npm ci
       - name: Build with Hugo
         working-directory: src
         env:
