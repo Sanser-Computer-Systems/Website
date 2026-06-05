@@ -1,11 +1,9 @@
 <script src="https://forminit.com/sdk/v1/forminit.js"></script>
 
 <script>
+  const FORM_ID = '{{ .Site.Params.forminitFormId }}';
   const form = document.getElementById('contact-form');
   const status = document.getElementById('form-status');
-  
-  const forminit = new Forminit();
-  const FORM_ID = '{{ .Site.Params.forminitFormId }}';
   
   form.addEventListener('submit', async function(event) {
     event.preventDefault();
@@ -14,8 +12,9 @@
     status.textContent = 'Sending...';
     status.className = 'status-loading';
     
-    const fd = new FormData(form);
-    const { data, error } = await forminit.submit(FORM_ID, fd);
+    const forminit = new Forminit();
+    const formData = new FormData(form);
+    const { data, error } = await forminit.submit(FORM_ID, formData);
 
     if (error) {
       status.textContent = error.message;
