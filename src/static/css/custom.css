@@ -50,18 +50,17 @@ article,
     background-color: var(--background-colour-2);
 }
 
-/* Set the style of the text in the homepage slideshow */
-.splide h1 {
-    color: var(--shade-colour);
-    font-size: 4.5rem;
-    font-style: italic;
-    font-weight: bold;
-}
-
 h1 {
     font: var(--title-font);
 }
 
+/* Set the style of the text in the homepage slideshow */
+.splide h1 {
+    color: var(--shade-colour);
+    font-size: 3rem;
+    font-style: italic;
+    font-weight: bold;
+}
 h2 {
     font: var(--subtitle-font);
 }

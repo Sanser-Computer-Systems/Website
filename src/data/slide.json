@@ -1,22 +1,18 @@
 [
   {
     "title": "Software Development",
-    "image": "img/slide/software-development.png",
-    "color": "text-white"
+    "image": "img/slide/software-development.png"
   },
   {
     "title": "IT Repairs",
-    "image": "img/slide/it-repair.png",
-    "color": "text-white"
+    "image": "img/slide/it-repair.png"
   },
   {
     "title": "Managed Services",
-    "image": "img/slide/MSP.png",
-    "color": "text-white"
+    "image": "img/slide/MSP.png"
   },
   {
     "title": "IT Support",
-    "image": "img/slide/it-support-and-monitoring.png",
-    "color": "text-white"
+    "image": "img/slide/it-support-and-monitoring.png"
   }
 ]
