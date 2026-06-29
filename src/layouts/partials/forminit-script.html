@@ -31,13 +31,13 @@
         status.className = 'status-success';
 
         // Delay prevents extensions from breaking async listeners
-        setTimeout(() => form.reset(), 100);
+        setTimeout(() => form.reset(), 50);
 
       } catch (err) {
         status.textContent = 'Unexpected error. Please try again.';
         status.className = 'status-error';
         console.error('Forminit error:', err);
       }
-    }, 50); // 30–60ms is ideal
+    }, 30); // 20–40ms is ideal
   });
 </script>

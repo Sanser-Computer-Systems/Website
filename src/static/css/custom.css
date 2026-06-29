@@ -61,6 +61,7 @@ h1 {
     font-style: italic;
     font-weight: bold;
 }
+
 h2 {
     font: var(--subtitle-font);
 }
@@ -80,4 +81,23 @@ p {
 
 li {
     font: var(--list-font);
+}
+
+/* Nordic Clean Status Styles */
+#form-status.status-loading {
+    display: block;
+    background: #f9fafb; /* soft white-grey */
+    color: #4b5563;      /* muted slate */
+}
+
+#form-status.status-success {
+    display: block;
+    background: #f3faf6; /* very soft green tint */
+    color: #14532d;      /* deep forest green */
+}
+
+#form-status.status-error {
+    display: block;
+    background: #fdf4f4; /* soft red tint */
+    color: #7f1d1d;      /* muted red */
 }
