@@ -36,7 +36,8 @@
   {{ end }}
   <div class="flex items-center justify-between flex-wrap bg-(--text-colour) p-8 text-white">
     <div class="items-center text-xl text-grey-900 mr-6">
-      <b>{{ .Site.Params.site.name }}</b> <i>(ABN: {{ .Site.Params.site.abn }})</i>
+      <div id="footer-company-name">{{ .Site.Params.site.name }}</div>
+      <div id="abn">ABN: {{ .Site.Params.site.abn }}</div>
     </div>
     <div class="w-full block grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
       <div class="text-lg lg:grow">

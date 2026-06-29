@@ -10,7 +10,7 @@
     --background-colour: #dbe5d8;
     --background-colour-2: #cfdccb;
     --shade-colour: #c9cbc8;
-    /* --shade-2: #818282; */
+    --shade-colour-2: #818282;
 
     /* Fonts: */
     --base-font: Montserrat;
@@ -81,6 +81,18 @@ p {
 
 li {
     font: var(--list-font);
+}
+
+#footer-company-name {
+    font-size: 0.9rem;
+    color: var(--background-colour-2);
+    font-weight: bold;
+}
+
+#abn {
+    font-size: 0.8rem;
+    color: var(--shade-colour-2);
+    font-weight: bold;
 }
 
 /* Nordic Clean Status Styles */
