@@ -17,6 +17,8 @@
       try {
         const forminit = new Forminit();
         const formData = new FormData(form);
+        // TODO: Enable reCAPTCHA v3 support in Forminit SDK.
+        formData.delete("g-recaptcha-response"); // Remove reCAPTCHA response if present. 
 
         const { data, error } = await forminit.submit(FORM_ID, formData);
 
