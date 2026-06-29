@@ -4,27 +4,40 @@
   const FORM_ID = '{{ .Site.Params.forminitFormId }}';
   const form = document.getElementById('contact-form');
   const status = document.getElementById('form-status');
-  
-  form.addEventListener('submit', async function(event) {
+
+  form.addEventListener('submit', function (event) {
     event.preventDefault();
-    
-    // Show loading state
+
+    // Visual feedback
     status.textContent = 'Sending...';
     status.className = 'status-loading';
-    
-    const forminit = new Forminit();
-    const formData = new FormData(form);
-    const { data, error } = await forminit.submit(FORM_ID, formData);
 
-    if (error) {
-      status.textContent = error.message;
-      status.className = 'status-error';
-      return;
-    }
+    // Small delay prevents extension async-channel errors
+    setTimeout(async () => {
+      try {
+        const forminit = new Forminit();
+        const formData = new FormData(form);
 
-    // Success
-    status.textContent = 'Message sent successfully!';
-    status.className = 'status-success';
-    form.reset();
+        const { data, error } = await forminit.submit(FORM_ID, formData);
+
+        if (error) {
+          status.textContent = error.message || 'Something went wrong.';
+          status.className = 'status-error';
+          return;
+        }
+
+        // Success
+        status.textContent = 'Message sent successfully!';
+        status.className = 'status-success';
+
+        // Delay prevents extensions from breaking async listeners
+        setTimeout(() => form.reset(), 100);
+
+      } catch (err) {
+        status.textContent = 'Unexpected error. Please try again.';
+        status.className = 'status-error';
+        console.error('Forminit error:', err);
+      }
+    }, 50); // 30–60ms is ideal
   });
 </script>
