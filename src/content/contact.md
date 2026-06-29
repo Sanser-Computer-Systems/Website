@@ -81,8 +81,14 @@ If you believe your computer may have been infected, displayed suspicious warnin
 
 ## Thank You
 
-Thank you for contacting Sanser Computer Systems.
+Thank you for contacting Sanser Computer Systems. Please use the email or contact form below to get in touch.
 
 We look forward to helping you.
+
+### Email
+
+<info@sansercomputersystems.com.au>
+
+### Contact Form
 
 {{< form >}}
