@@ -1,39 +1,39 @@
-<form id="contact-form" name="contact" class="flex flex-col gap-6">
+<form id="contact-form" name="contact" class="flex flex-col gap-8">
 
-    <!-- Name -->
-    <label class="flex flex-col gap-1">
-        <span class="text-sm font-medium text-gray-600">Name</span>
-        <input type="text" name="fi-sender-fullName" autocomplete="name" placeholder="Your full name" class="w-full p-4 bg-gray-50 border border-gray-300 rounded-lg 
-             focus:outline-none focus:ring-2 focus:ring-gray-400 focus:bg-white" required>
-    </label>
+  <!-- Name -->
+  <label class="flex flex-col gap-2">
+    <span class="text-sm font-medium text-gray-700">Name</span>
+    <input type="text" name="fi-sender-fullName" autocomplete="name" placeholder="Your full name" class="w-full p-4 bg-white border border-gray-300 rounded-xl 
+             focus:outline-none focus:ring-2 focus:ring-gray-400" required>
+  </label>
 
-    <!-- Email -->
-    <label class="flex flex-col gap-1">
-        <span class="text-sm font-medium text-gray-600">Email</span>
-        <input type="email" name="fi-sender-email" autocomplete="email" placeholder="you@example.com" class="w-full p-4 bg-gray-50 border border-gray-300 rounded-lg 
-             focus:outline-none focus:ring-2 focus:ring-gray-400 focus:bg-white" required>
-    </label>
+  <!-- Email -->
+  <label class="flex flex-col gap-2">
+    <span class="text-sm font-medium text-gray-700">Email</span>
+    <input type="email" name="fi-sender-email" autocomplete="email" placeholder="you@example.com" class="w-full p-4 bg-white border border-gray-300 rounded-xl 
+             focus:outline-none focus:ring-2 focus:ring-gray-400" required>
+  </label>
 
-    <!-- Subject -->
-    <label class="flex flex-col gap-1">
-        <span class="text-sm font-medium text-gray-600">Subject</span>
-        <input type="text" name="fi-text-subject" autocomplete="organization-title"
-            placeholder="What is this regarding?" class="w-full p-4 bg-gray-50 border border-gray-300 rounded-lg 
-             focus:outline-none focus:ring-2 focus:ring-gray-400 focus:bg-white" required>
-    </label>
+  <!-- Subject -->
+  <label class="flex flex-col gap-2">
+    <span class="text-sm font-medium text-gray-700">Subject</span>
+    <input type="text" name="fi-text-subject" autocomplete="organization-title" placeholder="What is this regarding?"
+      class="w-full p-4 bg-white border border-gray-300 rounded-xl 
+             focus:outline-none focus:ring-2 focus:ring-gray-400" required>
+  </label>
 
-    <!-- Message -->
-    <label class="flex flex-col gap-1">
-        <span class="text-sm font-medium text-gray-600">Message</span>
-        <textarea name="fi-text-message" placeholder="How can we help?" rows="5" class="w-full p-4 bg-gray-50 border border-gray-300 rounded-lg resize-none 
-             focus:outline-none focus:ring-2 focus:ring-gray-400 focus:bg-white" required></textarea>
-    </label>
+  <!-- Message -->
+  <label class="flex flex-col gap-2">
+    <span class="text-sm font-medium text-gray-700">Message</span>
+    <textarea name="fi-text-message" placeholder="How can we help?" rows="5" class="w-full p-4 bg-white border border-gray-300 rounded-xl resize-none 
+             focus:outline-none focus:ring-2 focus:ring-gray-400" required></textarea>
+  </label>
 
-    <!-- Submit -->
-    <button type="submit" class="px-8 py-3 bg-(--primary-colour) text-white rounded-lg font-medium
+  <!-- Submit -->
+  <button type="submit" class="px-8 py-3 bg-(--primary-colour) text-white rounded-xl font-medium
            transition-all duration-200 hover:bg-gray-700 active:scale-[0.98]">
-        Submit
-    </button>
+    Submit
+  </button>
 
 </form>
 
@@ -44,25 +44,25 @@
 ></p>
 
 <style>
-  /* Minimal modern status styles */
+  /* Nordic Clean Status Styles */
   #form-status.status-loading {
     display: block;
-    background: #f8fafc; /* soft neutral */
-    color: #475569;      /* slate */
-    border-left: 3px solid #94a3b8; /* subtle slate accent */
+    background: #f9fafb; /* soft white-grey */
+    color: #4b5563;      /* muted slate */
+    border-left: 3px solid #d1d5db; /* gentle grey accent */
   }
 
   #form-status.status-success {
     display: block;
-    background: #f0fdf4; /* soft green tint */
-    color: #166534;      /* deep modern green */
-    border-left: 3px solid #4ade80;
+    background: #f3faf6; /* very soft green tint */
+    color: #14532d;      /* deep forest green */
+    border-left: 3px solid #86efac; /* soft green accent */
   }
 
   #form-status.status-error {
     display: block;
-    background: #fef2f2; /* soft red tint */
-    color: #b91c1c;      /* modern red */
-    border-left: 3px solid #f87171;
+    background: #fdf4f4; /* soft red tint */
+    color: #7f1d1d;      /* muted red */
+    border-left: 3px solid #fca5a5; /* soft red accent */
   }
 </style>
